@@ -11,8 +11,8 @@
 > indivisual user scripts.
 
 > ALB readme.md 2025-09-16<img src="./img/img1.png"
-  style="width:7.08333in;height:3.98958in" /><img src="./img/img2.png"
-  style="width:7.08333in;height:3.97917in" />
+> style="width:7.08333in;height:3.98958in" /><img src="./img/img2.png"
+> style="width:7.08333in;height:3.97917in" />
 
 > Step2- Create target groups and register the instances.
 >
@@ -30,13 +30,13 @@
 > ALB readme.md 2025-09-16<img src="./img/img5.png"
 > Step6- Test by hitting the ALB DNS name.
 > style="width:7.08333in;height:3.98958in" /><img src="./img/img6.png"
-   style="width:7.08333in;height:3.98958in" />
+  style="width:7.08333in;height:3.98958in" />
 
->
+> Step6- Test by hitting the ALB DNS name.
 
-ALB readme.md 2025-09-16<img src="./img/img7.png"
-style="width:7.08333in;height:3.98958in" /><img src="./img/img8.png"
-style="width:7.08333in;height:3.97917in" />
+  ALB readme.md 2025-09-16<img src="./img/img7.png"
+  style="width:7.08333in;height:3.98958in" /><img src="./img/img8.png"
+  style="width:7.08333in;height:3.97917in" />
 
 > Summary:
 >
