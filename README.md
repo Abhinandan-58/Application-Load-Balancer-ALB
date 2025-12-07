@@ -1,7 +1,3 @@
-# Application-Load-Balancer-ALB-
-ALB readme.md 2025-09-16<img src="./img/img1.png"
-style="width:7.08333in;height:3.98958in" /><img src="./img/img2.png"
-style="width:7.08333in;height:3.97917in" />
 
 > Application Load Balancer (ALB) Project
 >
@@ -13,29 +9,25 @@ style="width:7.08333in;height:3.97917in" />
 >
 > Step1- Launch 6 EC2 instances(Home-2, Laptop-2, Mobile-2) with
 > indivisual user scripts.
->
-> 1 / 4
-
-ALB readme.md 2025-09-16<img src="./img/img3.png"
-style="width:7.08333in;height:3.98958in" /><img src="./img/img4.png"
+>ALB readme.md 2025-09-16<img src="./img/img1.png"
+style="width:7.08333in;height:3.98958in" /><img src="./img/img2.png"
 style="width:7.08333in;height:3.97917in" />
 
+> 1 / 4
 > Step2- Create target groups and register the instances.
->
+> ALB readme.md 2025-09-16<img src="./img/img3.png"
 > Step3- Create an Application Load Balancer.
->
+> style="width:7.08333in;height:3.98958in" /><img src="./img/img4.png"
+  style="width:7.08333in;height:3.97917in" />
 > Step4- Configure the listeners rule.
 >
 > 2 / 4
-
-ALB readme.md 2025-09-16<img src="./img/img5.png"
-style="width:7.08333in;height:3.98958in" /><img src="./img/img6.png"
-style="width:7.08333in;height:3.98958in" />
-
 > Step5- Copy the DNS Name of ALB.
->
+> ALB readme.md 2025-09-16<img src="./img/img5.png"
 > Step6- Test by hitting the ALB DNS name.
->
+> style="width:7.08333in;height:3.98958in" /><img src="./img/img6.png"
+   style="width:7.08333in;height:3.98958in" />
+
 > 3 / 4
 
 ALB readme.md 2025-09-16<img src="./img/img7.png"
